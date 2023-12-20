@@ -1,1 +1,0 @@
-# chessboard_project
